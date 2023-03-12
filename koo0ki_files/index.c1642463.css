@@ -135,11 +135,11 @@ h1,h2 {
 }
 
 .link-vk:hover {
-    border: 3px solid #597da3
+    border: 3px solid #1a1b1d
 }
 
 .link-tg:hover {
-    border: 3px solid rgb(125, 144, 153)
+    border: 3px solid rgb(43, 44, 44)
 }
 
 .link-inst:hover {
@@ -168,7 +168,7 @@ h1,h2 {
     text-align: center;
     font-size: 17px;
     padding: 10px 15px;
-    background: #5107c9;
+    background: #2d2d2e;
     border-radius: 10px;
     transition: .3s ease-in-out
 }
@@ -190,7 +190,7 @@ h1,h2 {
     margin-top: 20px;
     font-size: 17px;
     padding: 10px 15px;
-    background: #ff4400;
+    background: #ffffff;
     border-radius: 10px;
     transition: .3s ease-in-out
 }
@@ -202,17 +202,17 @@ h1,h2 {
 .bigbtn-container:hover {
     transform: translateY(-2px);
     transition: .3s ease-in-out;
-    background: #444170
+    background: #29292b
 }
 
 .bigbtn-container2:hover {
     transform: translateY(-2px);
-    background: #06f
+    background: rgb(36, 37, 37)
 }
 
 .bigbtn-container3:hover {
     transform: translateY(-2px);
-    background: #c50
+    background: rgb(255, 255, 255)
 }
 
 .about-me {
@@ -315,7 +315,7 @@ h1,h2 {
 }
 
 .valorant:hover {
-    border: 2px solid #f6fa00;
+    border: 2px solid #333332;
     transition: .4s;
     transform: scale(1.05)
 }
@@ -325,7 +325,7 @@ h1,h2 {
 }
 
 .lite:hover {
-    border: 2px solid #695555;
+    border: 2px solid #292626;
     transition: .4s;
     transform: scale(1.05)
 }
@@ -339,11 +339,11 @@ h1,h2 {
     right: 340px;
     bottom: 110px;
     font-size: 25px;
-    color: gold
+    color: #fcfcfc
 }
 
 .hatory:hover {
-    border: 2px solid #f5b11d;
+    border: 2px solid #ffffff;
     transition: .4s;
     transform: scale(1.05)
 }
@@ -383,13 +383,13 @@ h1,h2 {
 }
 
 .partners-card:hover {
-    border: 2px solid #c51616;
+    border: 2px solid #2c2727;
     transition: .4s;
     transform: scale(1.05)
 }
 
 .partners-card a:hover {
-    color: #6422ce
+    color: #27232c
 }
 
 .team-card {
@@ -414,7 +414,7 @@ h1,h2 {
 }
 
 .team-card a:hover {
-    color: #6422ce
+    color: #3c3841
 }
 
 .team-card:hover {
@@ -434,7 +434,7 @@ h1,h2 {
 }
 
 .projects-card a:hover {
-    color: #6422ce
+    color: #77737c
 }
 
 .made {
@@ -471,10 +471,10 @@ h1,h2 {
     transition: .3s;
     width: 300px;
     text-align: center;
-    border: 2px solid rgba(0,0,0,.2);
+    border: 2px solid rgba(136, 0, 0, 0.2);
     padding: 25px;
     border-radius: 7px;
-    background: rgba(0,0,0,.4);
+    background: rgba(46, 42, 42, 0.4);
     margin: 20px
 }
 
@@ -484,15 +484,15 @@ h1,h2 {
 }
 
 .price-block.wow {
-    border: 2px solid #ee204d
+    border: 2px solid #0c0a0a
 }
 
 .price-block.wow2 {
-    border: 2px solid #ff6800
+    border: 2px solid #11100e
 }
 
 .price-block.wow3 {
-    border: 2px solid #ffb300
+    border: 2px solid #181716
 }
 
 .stats-number {
@@ -527,15 +527,15 @@ h1,h2 {
 }
 
 .price-attention2 {
-    background: rgba(0,0,0,.4);
+    background: rgba(170, 4, 4, 0.4);
     padding: 15px;
     border-radius: 5px;
-    border: 2px solid #c10020;
+    border: 2px solid #272222;
     margin: 10px
 }
 
 .price-attention b {
-    color: #ff0000a4
+    color: #913b3ba4
 }
 
 .price-attention2 b {
@@ -573,7 +573,7 @@ h1,h2 {
 body {
     font-family: Hauora Bold,Arial;
     background: #000;
-    background: linear-gradient(0deg,#000 8%,#14012e);
+    background: linear-gradient(0deg,#000 8%,#232224);
     color: #ddd;
     padding: 0;
     margin: 0
